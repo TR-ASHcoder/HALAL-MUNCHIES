@@ -93,7 +93,7 @@ html{
     text-decoration: none;
     font-family:font;
     text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
-    font-size: 17px;
+    font-size: 19px;
   }
  
   /* colour it shows when hovered over*/ 
@@ -127,3 +127,10 @@ html{
     filter: blur(0px);
     opacity: 1;
 }
+
+
+
+/*img {
+    border-color:#000000;
+    border-radius: 50px;
+}*/
