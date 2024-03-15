@@ -23,7 +23,14 @@ p{
     font-family: font2;
     src: url(fonts/bayland/Bayland\ Regular.ttf);
  }
- 
+
+ @font-face {
+  font-family: font3;
+  src: url(fonts/boo/Boohong.ttf);
+}
+
+
+
 /* page gradent*/ 
 body{
     background-image: linear-gradient(-1deg,rgb(0, 0, 0), rgb(9, 236, 9) );
@@ -32,7 +39,7 @@ body{
 
 /* the specific page height, has to be here for the gradient too look as it should*/
 html{
-    height: 1001%;
+    height: 101%;
 }
 
 /* start of blur anim */
@@ -60,7 +67,7 @@ html{
   .topnav {
     overflow: hidden;
     background-image: linear-gradient(-0deg,rgb(9, 211, 9), rgb(0, 0, 0) );
-    
+
     border-radius: 1px;
   }
   
@@ -89,5 +96,8 @@ html{
   }
 
 E{
-   font-family:font2;
+   font-family:font3;
+   text-shadow: 1px 0 0 #000000, ;
+   color: rgb(4, 82, 11);
 }
+
