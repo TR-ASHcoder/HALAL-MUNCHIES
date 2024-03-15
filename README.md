@@ -3,11 +3,7 @@
 or المأكولات الخفيفة الحلال
 is a halal food van/resturant made by two owners.. 
 
-*owner1*  
-
-and 
-
-*me*
+*owner1* and *me*
 
 --
 
