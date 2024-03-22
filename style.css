@@ -128,9 +128,14 @@ html{
     opacity: 1;
 }
 
+E{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#000000;
+}
 
 
-/*img {
-    border-color:#000000;
-    border-radius: 50px;
-}*/
+R{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#000000;
+    font-size: small;
+}
